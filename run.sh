@@ -1,4 +1,4 @@
-git clone https://github.com/lightyagami/RealnibbasNormalbot /root/BoT
+git clone https://github.com/lightyagami/sterioid /root/BoT
 cp CREDS/config.env /root/BoT/config.env
 cd /root/BoT
 pip3 install -r requirements.txt
